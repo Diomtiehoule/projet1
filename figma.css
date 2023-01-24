@@ -1,0 +1,24 @@
+/** GENERAL **/
+*
+{
+
+}
+
+/** HEADER **/
+{
+background: black;
+    position: fixed;
+}
+
+header img
+{
+    width: 66;
+    height: 54;
+}
+
+header a
+{
+width: 168;
+    height: 37;
+    
+}

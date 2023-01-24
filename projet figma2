@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Projet FIGMA </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="figma.css">
+    </head>
+    <body>
+        <header>
+          <div class="container">
+            <img src="mon%20logo.jpg">
+            <nav>
+              <ul>
+                <li> Menu </li>
+                </ul>
+              </nav>
+            </div>
+        </header>
+        
+        <section id="image principale">
+        
+        </section>
+        
+        <section id="information">
+        
+        </section>
+        
+        <section id="avantage">
+        
+        </section>
+        
+        <footer>
+        
+        </footer>
+    </body>
+      
+</html>
