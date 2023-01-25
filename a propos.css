@@ -1,0 +1,51 @@
+header h1
+{
+    text-align: center;
+    
+}
+
+body
+{
+display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #ddd;
+}
+
+.images
+{
+ display: flex;
+    animation-duration: 20s;
+    animation-name: MesImages;
+    animation-iteration-count: infinite;
+}
+#voir
+{
+overflow: hidden;
+    width: 300px;
+    border: 2px solid #333;
+}
+
+@keyframes MesImages {
+0%
+    {
+ transform: translateX(0px);
+    }
+25%
+    {
+ transform: translateX(-300px);
+    }
+50%
+    {
+     transform: translateX(-600px);
+    }
+75%
+    {
+     transform: translateX(-900px);
+    }
+100%
+    {
+     transform: translateX(0);
+    }
+  }
